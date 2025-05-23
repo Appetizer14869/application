@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: application
+      POSTGRES_USER: application
+      POSTGRES_PASSWORD: "@254Appetizer/"
+    ports:
+      - "5432:5432"
