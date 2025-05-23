@@ -1,0 +1,26 @@
+{
+  "applicationApp": {
+    "mode": {
+      "home": {
+        "title": "Modes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Mode",
+        "createOrEditLabel": "Genera o modifica un Mode",
+        "notFound": "No Modes found"
+      },
+      "created": "&Egrave; stato generato un nuovo Mode con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Mode identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Mode con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Mode {{ id }}?"
+      },
+      "detail": {
+        "title": "Mode"
+      },
+      "id": "ID",
+      "name": "Name",
+      "handle": "Handle",
+      "user": "User"
+    }
+  }
+}
